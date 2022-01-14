@@ -1,11 +1,8 @@
-# MonteagudoJulian_2_14012022
 
-<<<<<<< HEAD
-![Image de la maquette desktop](../ImagesGitHub/MaquetteDesktop.png)
+![Image de la maquette desktop](/../ImagesGitHub/MaquetteDesktop.png)
 =======
 
-
-Note de synthèse - Spécifications fonctionnelles et techniques à réaliser
+## Note de synthèse - Spécifications fonctionnelles et techniques à réaliser
 
 - Les usagers pourront rechercher des hébergements dans la ville de leur choix. Le champ de recherche est un champ de saisie, le texte doit donc pouvoir être édité par l’utilisateur. La partie recherche ne doit pas être fonctionnelle.
 - Chaque carte d’hébergement ou d’activité devra être cliquable dans son intégralité.
@@ -22,4 +19,3 @@ Note de synthèse - Spécifications fonctionnelles et techniques à réaliser
 - Il faut utiliser des balises sémantiques.
 - Le code doit être valide aux validateurs W3C HTML et CSS.
 - La maquette doit être compatible avec les dernières versions de Google Chrome et de Mozilla Firefox.
->>>>>>> 3ee03e136939d5f6d91aebf9dc820e35e4922abd
