@@ -1,6 +1,4 @@
-
-![Image de la maquette desktop](/../ImagesGitHub/MaquetteDesktop.png)
-=======
+<img width="1440" alt="Maquette_Desktop" src="https://user-images.githubusercontent.com/97619925/149600284-d50f435f-172d-42e3-8c73-4e577d24e591.png">
 
 ## Note de synthèse - Spécifications fonctionnelles et techniques à réaliser
 
